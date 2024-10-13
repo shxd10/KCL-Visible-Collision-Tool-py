@@ -1,5 +1,4 @@
 # KCL Visible Collision Tool
-<p align="center"><img src="https://img.shields.io/codefactor/grade/github/shxd10/KCL-Visible-Collision-Tool-py" alt="shields"></p>
 
 A python program for automatically making Mario Kart Wii .szs files with visible, colored collisions.
 
