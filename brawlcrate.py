@@ -31,5 +31,5 @@ BrawlAPI.SaveFile()
 
 data["done"] = True
 
-with open('data.json', 'w') as file: 
-    json.dump(data, file, indent=4)  # Use indent for pretty printing
+with open('data.json', 'w') as file:
+    json.dump(data, file)
