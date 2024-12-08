@@ -1,5 +1,4 @@
 # KCL Visible Collision Tool
-<p align="center"><img src="https://img.shields.io/codefactor/grade/github/shxd10/KCL-Visible-Collision-Tool-py" alt="shields"></p>
 
 A python program for automatically making Mario Kart Wii .szs files with visible, colored collisions.
 
@@ -7,6 +6,8 @@ Huge thanks to [Epik95](https://github.com/Epik95mkw) for his [manual tutorial](
 i basically just automated his stuff,
 <br/>
 And to [Gabriella](https://github.com/Gabriela-Orzechowska) for the color conversion script, the [Blender plugin to open SZS files](https://github.com/Gabriela-Orzechowska/Blender-MKW-Utilities) and additional things from Epik's tutorial.
+> [!NOTE]
+> This doesnt yet have object collision visible, so if you also want objects collision to be visible and colored just follow epik's tutorial
 
 ## Installing
 Install the .zip from the latest release, extract it where you want (it will also extract additional files other then the .exe) and run `Tool.exe`.
