@@ -37,5 +37,5 @@ Since python is an interpreter language, i use Pyinstaller to compile main.py
 <br/>
 Run `pip install pyinstaller` and `pyinstaller --onefile --clean main.py` to make main.py an executable.
 <br/>
-You should also move the .exe which has been created to the /dist folder on the root, and delete the /build folder
+However, even if its an .exe, it needs the gui.ui, blender.py and brawlcrate.py files in its root, so copy those and put it in the same dir as the executable
 
